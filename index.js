@@ -11,5 +11,5 @@ function doOnIncoming(incomingData, functionsToSetOutgoingData) {
     console.log(incomingData);
     functionsToSetOutgoingData.end("Welcome to twitter");
 };
-//the above is working server which will show responce welcome to twitterx
+//the above is working server which will show response welcome to twitterx
 
