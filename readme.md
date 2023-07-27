@@ -42,3 +42,5 @@ console.log(`Server is running on http://localhost:${port}`);
 In the example above, the server responds with "Hello, World!" for all incoming requests. But in real-world applications, we often need to handle different types of requests and respond accordingly.
 
 The req parameter in the createServer callback represents the incoming HTTP request. We can inspect the request method, URL, headers, and process the request accordingly. Similarly, the res parameter represents the response we send back to the client.
+
+# ejs embedded javascript we will also see how templating works using EJS
